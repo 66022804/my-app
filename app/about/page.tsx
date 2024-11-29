@@ -42,7 +42,7 @@ const Resume: React.FC = () => {
 
           {/* Skills Section */}
           <section>
-            <h3 className="text-xl font-semibold text-pink-300">Skills</h3>
+            <h3 className="text-xl font-semibold text-pink-400">Skills</h3>
             <ul className="list-disc list-inside text-gray-400">
               <li>HTML</li>
               <li>TailwindCSS</li>
