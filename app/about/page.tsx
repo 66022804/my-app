@@ -34,7 +34,7 @@ const Resume: React.FC = () => {
             <p>Email: <a href="mailto:youremail@example.com" className="text-pink-300 underline">66022804@up.ac.th</a></p>
             <p>facebook: <a href="https://www.facebook.com/profile.php?id=100012835871553" className="text-pink-300 underline">Phonsinee Kitchaaum</a></p>
             <p>instagram: <a href="https://www.instagram.com/gift._028/" className="text-pink-300 underline">gift._028</a></p>
-            <p>github: <a href="https://github.com/66022804" className="text-pink-200 underline">6622804</a></p>
+            <p>github: <a href="https://github.com/66022804" className="text-pink-300 underline">6622804</a></p>
             
             
           </section>
