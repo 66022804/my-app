@@ -25,7 +25,8 @@ const Resume: React.FC = () => {
               className="w-40 h-40 rounded-full mx-auto  m-6 border-4 border-pink-300"
             />
             <h2 className="text-2xl font-semibold text-pink-400 mb-4">PHONSINEE KITCHAAUM</h2>
-            <p className="text-gray-400">Passionate </p>
+            <p className="text-gray-400">Passionate developer specializing in scalable web applications and modern design.
+</p>
           </section>
 
           {/* Contact Section */} 
