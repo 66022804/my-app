@@ -67,7 +67,7 @@ const Resume: React.FC = () => {
           <section className="mb-6">
             <h3 className="text-2xl font-semibold text-sky-300 mb-4">Projects</h3>
             <div className="mb-4">
-              <h4 className="text-lg font-medium">Coding website </h4>
+              <h4 className="text-lg font-medium">Coding website Project</h4>
               <p>
                A website for practicing programming, with an answer checking system, supporting multiple languages, and won first place in the 2nd year project competition within the department. It is a project in the subject of databases and software processes.
                 
